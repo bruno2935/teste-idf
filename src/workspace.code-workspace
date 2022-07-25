@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../projects_microcontroler/DEV_SENSORS/NTC_THERMISTOR"
+		},
+		{
+			"name": "teste-idf",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
